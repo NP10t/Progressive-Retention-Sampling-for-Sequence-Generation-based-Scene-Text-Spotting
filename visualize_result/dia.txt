@@ -1,0 +1,34 @@
+
+VỚI UNITS
++ TRÊN VINTEXT
+so sánh các phiên bản của proposed strategy với nhau trên Vintext bằng model UNITS
+        và cho thấy units khi được finetune với proposed method tốt
+        hơn units khi train teacher forcing
+
+=> em k biết có cần nói rõ ra là đều dùng chung Threshold hay không, 
+                                train cùng 1 số lượng epoch hay không
+
+=> thiếu 1 cái bảng units + config tốt nhất của 
+        proposed strategy trên Vintext với dictguided
+                                        swintextspotter trên  Vintext
+        (không biết lựa config tốt nhất đem so có ổn k)
+
++ TRÊN IC15
+so sánh UNITS + config tốt nhất của proposed strategy trên IC15 với + baseline UNITS và 
+                                                                        dictguided ...
+                                                                            
+
+
+
+VỚI SPTS
++ TRÊN IC15
+so sánh kết quả các config của proposed strategy với nhau trên IC15 bằng model SPTS
+        và thấy các config của proposed strategy tốt hơn kết quả
+        trên ic15 của SPTS
+
+
+vẽ 1 cái biểu đồ đường so sánh kết quả spts khi được train trên ic15 
+                                với spts + config tốt nhất của proposed method
+
++ TRÊN VINTEXT
+không nhắc đến trong paper

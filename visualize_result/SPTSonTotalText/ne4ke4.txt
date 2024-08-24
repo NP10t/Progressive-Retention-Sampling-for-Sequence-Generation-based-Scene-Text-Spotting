@@ -1,0 +1,15 @@
+totaltext_ke4ne4_354
+Precision: 0.7999, Recall: 0.6866, Hmean: 0.7389, Conf Thres: 0.8900
+Precision: 0.8892, Recall: 0.7799, Hmean: 0.8310, Conf Thres: 0.8700
+
+totaltext_ke4ne4_359
+Precision: 0.8153, Recall: 0.6784, Hmean: 0.7406, Conf Thres: 0.9000
+Precision: 0.8812, Recall: 0.7936, Hmean: 0.8351, Conf Thres: 0.8500
+
+totaltext_ke4ne4_364
+Precision: 0.8402, Recall: 0.6723, Hmean: 0.7470, Conf Thres: 0.9100
+Precision: 0.8830, Recall: 0.7909, Hmean: 0.8344, Conf Thres: 0.8600
+
+totaltext_ke4ne4_369
+Precision: 0.8134, Recall: 0.6844, Hmean: 0.7434, Conf Thres: 0.9000
+Precision: 0.8910, Recall: 0.7854, Hmean: 0.8349, Conf Thres: 0.8700

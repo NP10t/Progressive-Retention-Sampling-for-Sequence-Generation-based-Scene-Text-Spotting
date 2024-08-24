@@ -1,0 +1,9 @@
+epoch appling sampling 0 5 10 15 20
+
+vanilla sampling 82.4 79.4 71.4 59.9 46.9
+Gaduall Subsequence Sampling (ours) 82.4 83.1 83.5 83.4 83.5
+
+74.2 71.6, 65.0, 54.7, 43.0
+
+74.2 74.0, 74.0, 74.7, 74.3
+
