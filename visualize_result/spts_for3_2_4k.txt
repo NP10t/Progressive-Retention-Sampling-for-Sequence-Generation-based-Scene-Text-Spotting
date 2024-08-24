@@ -1,0 +1,20 @@
+for3_2_4k_354
+Precision: 0.7903, Recall: 0.5498, Hmean: 0.6485, Conf Thres: 0.9000
+Precision: 0.7935, Recall: 0.5753, Hmean: 0.6670, Conf Thres: 0.8900
+Precision: 0.8505, Recall: 0.6216, Hmean: 0.7182, Conf Thres: 0.8700
+Precision: 0.9496, Recall: 0.6615, Hmean: 0.7798, Conf Thres: 0.8600
+for3_2_4k_359
+Precision: 0.7807, Recall: 0.5537, Hmean: 0.6479, Conf Thres: 0.9000
+Precision: 0.8058, Recall: 0.5715, Hmean: 0.6687, Conf Thres: 0.9000
+Precision: 0.8453, Recall: 0.6288, Hmean: 0.7211, Conf Thres: 0.8700
+Precision: 0.9443, Recall: 0.6779, Hmean: 0.7892, Conf Thres: 0.8100
+for3_2_4k_364
+Precision: 0.7748, Recall: 0.5518, Hmean: 0.6445, Conf Thres: 0.9000
+Precision: 0.8032, Recall: 0.5720, Hmean: 0.6682, Conf Thres: 0.9000
+Precision: 0.8317, Recall: 0.6283, Hmean: 0.7159, Conf Thres: 0.8600
+Precision: 0.9423, Recall: 0.6683, Hmean: 0.7820, Conf Thres: 0.8500
+for3_2_4k_369
+Precision: 0.7682, Recall: 0.5489, Hmean: 0.6403, Conf Thres: 0.9000
+Precision: 0.7826, Recall: 0.5806, Hmean: 0.6667, Conf Thres: 0.8900
+Precision: 0.8488, Recall: 0.6269, Hmean: 0.7211, Conf Thres: 0.8700
+Precision: 0.9405, Recall: 0.6702, Hmean: 0.7827, Conf Thres: 0.8000

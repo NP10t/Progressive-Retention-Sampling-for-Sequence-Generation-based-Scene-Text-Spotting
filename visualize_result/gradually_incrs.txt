@@ -1,0 +1,20 @@
+gradually_incrs_354
+Precision: 0.7687, Recall: 0.5282, Hmean: 0.6261, Conf Thres: 0.9000
+Precision: 0.7616, Recall: 0.5614, Hmean: 0.6463, Conf Thres: 0.8900
+Precision: 0.7958, Recall: 0.6153, Hmean: 0.6940, Conf Thres: 0.8600
+Precision: 0.9107, Recall: 0.6533, Hmean: 0.7609, Conf Thres: 0.8300
+gradually_incrs_359
+Precision: 0.6849, Recall: 0.5171, Hmean: 0.5893, Conf Thres: 0.8900
+Precision: 0.7111, Recall: 0.5368, Hmean: 0.6118, Conf Thres: 0.8900
+Precision: 0.7474, Recall: 0.5797, Hmean: 0.6529, Conf Thres: 0.8800
+Precision: 0.8286, Recall: 0.6331, Hmean: 0.7178, Conf Thres: 0.8600
+gradually_incrs_365
+Precision: 0.6232, Recall: 0.4969, Hmean: 0.5529, Conf Thres: 0.8900
+Precision: 0.6163, Recall: 0.5344, Hmean: 0.5725, Conf Thres: 0.8800
+Precision: 0.6505, Recall: 0.5816, Hmean: 0.6141, Conf Thres: 0.8700
+Precision: 0.6963, Recall: 0.6336, Hmean: 0.6635, Conf Thres: 0.8300
+gradually_incrs_369
+Precision: 0.5072, Recall: 0.4588, Hmean: 0.4818, Conf Thres: 0.8900
+Precision: 0.5210, Recall: 0.4714, Hmean: 0.4949, Conf Thres: 0.8900
+Precision: 0.5229, Recall: 0.5176, Hmean: 0.5202, Conf Thres: 0.8800
+Precision: 0.5387, Recall: 0.5936, Hmean: 0.5648, Conf Thres: 0.8500
